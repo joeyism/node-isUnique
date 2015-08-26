@@ -1,5 +1,7 @@
 # isUnique
 
+[![Build Status](https://travis-ci.org/joeyism/node-isUnique.svg)](https://travis-ci.org/joeyism/node-isUnique)
+
 Checks to see if an array has only unique values
 
 ## Installation
