@@ -1,0 +1,35 @@
+{
+  "name": "isunique",
+  "version": "1.0.0",
+  "description": "A module that helps determine if an array has only unique elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyism/node-isUnique.git"
+  },
+  "keywords": [
+    "is",
+    "unique",
+    "contains",
+    "array",
+    "sort",
+    "find",
+    "repeats"
+  ],
+  "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyism/node-isUnique/issues"
+  },
+  "homepage": "https://github.com/joeyism/node-isUnique#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "istanbul": "^0.3.18",
+    "mocha": "^2.2.5",
+    "mockery": "^1.4.0"
+  }
+}
