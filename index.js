@@ -1,5 +1,5 @@
 "use strict";
-
+  
 Array.prototype.isUnique = function(){
     var that = this;
     var result = true;
